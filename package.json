@@ -1,0 +1,30 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "blablabla",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterGuyver/JavaScript2019.git"
+  },
+  "author": "Guyver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasterGuyver/JavaScript2019/issues"
+  },
+  "homepage": "https://github.com/MasterGuyver/JavaScript2019#readme",
+  "dependencies": {
+    "metarhia-common": "0.0.38"
+  },
+  "devDependencies": {
+    "eslint": "^6.3.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
